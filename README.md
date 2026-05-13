@@ -1,5 +1,8 @@
 # Vibecoding Interview
 
+![Just for Fun](https://img.shields.io/badge/Type-Just%20for%20Fun-orange)
+![Humor](https://img.shields.io/badge/Humor-Satirical-yellow)
+
 A satirical roleplay game for Claude Code.
 
 ## Disclaimer
